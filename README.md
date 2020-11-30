@@ -1,7 +1,7 @@
 # Unnamed Level Parser
 This is a parser for my tile-based level format. Tiles are grouped into
 "chunks" of 16x16. These chunks are assigned coordinates on a cartesian plane.
-The point of reference for these coordinates is the top left corner of the chunk.
+The origin for these coordinates is the top left corner of the chunk.
 This is because the first tile in a chunk is the top left one.
 
 ## Format outline
