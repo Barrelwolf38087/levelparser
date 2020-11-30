@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/levelparser.h
+cstdint
+-
+vector
+-
+map
+-
+utility
+-
+string
+-
+fstream
+-
+
+/home/willow/git/levelparser/test/main.cpp
+levelparser.h
+-
+iostream
+-
+
