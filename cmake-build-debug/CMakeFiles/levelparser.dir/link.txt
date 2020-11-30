@@ -1,2 +1,0 @@
-/usr/bin/ar qc liblevelparser.a  CMakeFiles/levelparser.dir/src/levelparser.cpp.o
-/usr/bin/ranlib liblevelparser.a

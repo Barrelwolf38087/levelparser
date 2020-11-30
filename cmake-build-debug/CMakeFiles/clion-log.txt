@@ -1,4 +1,0 @@
-/home/willow/clion-2020.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DLP_BUILD_TEST=true -G "CodeBlocks - Unix Makefiles" /home/willow/git/levelparser
--- Configuring done
--- Generating done
--- Build files have been written to: /home/willow/git/levelparser/cmake-build-debug

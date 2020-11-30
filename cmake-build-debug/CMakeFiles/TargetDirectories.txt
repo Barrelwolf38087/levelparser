@@ -1,6 +1,0 @@
-/home/willow/git/levelparser/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/willow/git/levelparser/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/willow/git/levelparser/cmake-build-debug/CMakeFiles/levelparser.dir
-/home/willow/git/levelparser/cmake-build-debug/test/CMakeFiles/rebuild_cache.dir
-/home/willow/git/levelparser/cmake-build-debug/test/CMakeFiles/edit_cache.dir
-/home/willow/git/levelparser/cmake-build-debug/test/CMakeFiles/test.dir
